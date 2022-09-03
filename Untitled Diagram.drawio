@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-03T16:35:38.216Z" agent="5.0 (Windows)" etag="GlePrkfFuqHslZb0kTsy" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-03T16:37:14.782Z" agent="5.0 (Windows)" etag="peR2LETMTkEql5lDNUGC" version="20.2.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1706" dy="373" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -293,7 +293,7 @@
           <mxGeometry x="260" y="351.25" width="140" height="180" as="geometry" />
         </mxCell>
         <mxCell id="RE7xwJCLeJIO6roD6Kax-77" value="&lt;div&gt;Change Password&lt;/div&gt;&lt;div&gt;Report Lost&lt;/div&gt;&lt;div&gt;Services&lt;/div&gt;&lt;div&gt;About Us&lt;/div&gt;&lt;div&gt;Transaction Logs&lt;/div&gt;&lt;div&gt;Cards&lt;/div&gt;&lt;div&gt;Edit Info&lt;/div&gt;&lt;div&gt;Close Account&lt;/div&gt;&lt;div&gt;Logout&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="RE7xwJCLeJIO6roD6Kax-58">
-          <mxGeometry x="20" y="30" width="120" height="140" as="geometry" />
+          <mxGeometry x="10" y="35" width="120" height="140" as="geometry" />
         </mxCell>
         <mxCell id="RE7xwJCLeJIO6roD6Kax-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="RE7xwJCLeJIO6roD6Kax-55" target="RE7xwJCLeJIO6roD6Kax-72">
           <mxGeometry relative="1" as="geometry">
